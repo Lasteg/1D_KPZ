@@ -1,0 +1,8 @@
+1.55          omega 
+1.00  0.0     rho0 u0
+0.1          lambda
+4.0           ramp
+40000  40   nstep,ndiag 
+10             nrealizations
+
+
